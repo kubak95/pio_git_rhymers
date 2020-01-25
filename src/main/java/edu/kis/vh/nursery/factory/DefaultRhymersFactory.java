@@ -28,3 +28,4 @@ public class DefaultRhymersFactory implements Rhymersfactory {
 	}
 
 }
+/*naming zmieniony wczesniej */

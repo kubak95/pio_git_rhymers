@@ -13,3 +13,5 @@ public interface Rhymersfactory {
 	public defaultCountingOutRhymer getHanoiRhymer();
 
 }
+
+/*naming zmieniony wczesniej*/
